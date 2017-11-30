@@ -1,0 +1,75 @@
+{
+	"filter":false, "title":"style.css", "tooltip":"/portfoliopage/style.css", "undoManager": {
+		"mark":5, "position":5, "stack":[[ {
+			"start": {
+				"row": 0, "column":0
+			}
+			, "end": {
+				"row": 39, "column":0
+			}
+			, "action":"remove", "lines":["", "", "h1 {", "    text-shadow: 3px 1px 9px #aa98a9;", "}", "", "", ".img-circle{", "   -webkit-box-shadow: 5px 5px 5px #111;", "           box-shadow: 15px 18px 18px #111;  ", "}", "", "", "", ".Pics {", "  -webkit-box-shadow: 5px 5px 5px #111;", "          box-shadow: 5px 5px 5px #111;  ", "  ", "}", ".img, .PicShadwow {", "  -webkit-box-shadow: 5px 5px 5px #111;", "          box-shadow: 5px 5px 5px #111;  ", "  ", "}", "", ".Pics {", "  opacity: 0.8;", "  }", ".Pics:hover {", "  opacity: 1;", "  }", "", ".jumbotron{", "  background-color: lightblue;", "}", "", "img {", "height: 100px;", "width: 100px;", ""], "id":1
+		}
+		], [ {
+			"start": {
+				"row": 0, "column":0
+			}
+			, "end": {
+				"row": 26, "column":14
+			}
+			, "action":"insert", "lines":["h1 {", "\ttext-shadow: 3px 1px 9px #aa98a9;", "}", ".img-circle {", "\t-webkit-box-shadow: 5px 5px 5px #111;", "\tbox-shadow: 15px 18px 18px #111;", "}", ".Pics {", "\t-webkit-box-shadow: 5px 5px 5px #111;", "\tbox-shadow: 5px 5px 5px #111;", "}", ".img, .PicShadwow {", "\t-webkit-box-shadow: 5px 5px 5px #111;", "\tbox-shadow: 5px 5px 5px #111;", "}", ".Pics {", "\topacity: 0.8;", "}", ".Pics:hover {", "\topacity: 1;", "}", ".jumbotron {", "\tbackground-color: lightblue;", "}", "img {", "\theight: 100px;", "\twidth: 100px;"], "id":2
+		}
+		], [ {
+			"start": {
+				"row": 0, "column":1
+			}
+			, "end": {
+				"row": 0, "column":2
+			}
+			, "action":"remove", "lines":["1"], "id":3
+		}
+		], [ {
+			"start": {
+				"row": 0, "column":1
+			}
+			, "end": {
+				"row": 0, "column":2
+			}
+			, "action":"insert", "lines":["1"], "id":4
+		}
+		], [ {
+			"start": {
+				"row": 0, "column":1
+			}
+			, "end": {
+				"row": 0, "column":2
+			}
+			, "action":"remove", "lines":["1"], "id":5
+		}
+		], [ {
+			"start": {
+				"row": 0, "column":1
+			}
+			, "end": {
+				"row": 0, "column":2
+			}
+			, "action":"insert", "lines":["2"], "id":6
+		}
+		]]
+	}
+	, "ace": {
+		"folds":[], "scrolltop":0, "scrollleft":0, "selection": {
+			"start": {
+				"row": 0, "column":2
+			}
+			, "end": {
+				"row": 0, "column":2
+			}
+			, "isBackwards":false
+		}
+		, "options": {
+			"guessTabSize": true, "useWrapMode":false, "wrapToView":true
+		}
+		, "firstLineState":0
+	}
+	, "timestamp":1510622563246, "hash":"71d538f0daa03fef1ebe716895ee85d7cb83e099"
+}
